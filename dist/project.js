@@ -147,10 +147,3 @@ var transaction = new classes_1.Transaction();
         }
     });
 }); })();
-// გაქვს თუ არა ფროფერთი
-// undefined? null?
-// index => number??
-// meta => object??
-// meta.title => string??
-// meta.description => string??
-// call => function??
